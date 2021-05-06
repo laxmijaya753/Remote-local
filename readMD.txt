@@ -1,1 +1,2 @@
 This is master file info
+I have added one line in dev txt file
